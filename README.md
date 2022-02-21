@@ -23,6 +23,9 @@ Using single image detection. Processing...
 Finished. Image saved to file
 Elapsed: 5.49 seconds
 ```
+
+You may also use the 'live' detection mode by setting the USE_LIVE_DETECTION variable to True. This will open up a webcam with OpenCV. Press space to capture an image and wait for a few seconds.
+
 # Example Image
 ![Example Image](/output.png)
 
